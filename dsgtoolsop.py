@@ -28,7 +28,7 @@ from qgis.core import QgsMapLayer, QgsProject
 from qgis.PyQt.QtWidgets import QToolBar, QAction, QMessageBox, QMenu
 from qgis.PyQt.QtGui import QIcon
 
-sys.path.append(os.path.join(os.path.dirname(os.path.abspath(__file__)),'aux'))
+sys.path.append(os.path.join(os.path.dirname(os.path.abspath(__file__)),'auxiliar'))
 
 class DSGToolsOp:
 	def __init__(self, iface):

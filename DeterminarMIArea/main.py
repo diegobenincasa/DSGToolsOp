@@ -4,7 +4,7 @@ from qgis.gui import QgsMapToolEmitPoint, QgsVertexMarker, QgsMapToolIdentifyFea
 from qgis.PyQt import uic, QtWidgets, QtCore
 from qgis.PyQt.QtWidgets import QFileDialog, QTreeWidgetItem, QHeaderView
 from qgis.PyQt.QtCore import pyqtSignal, Qt
-from ..aux.auxMI2 import Auxiliar
+from ..auxiliar.auxMI2 import Auxiliar
 import os
 
 

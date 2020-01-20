@@ -5,7 +5,7 @@ from qgis.core import *
 from qgis.gui import *
 from .icons import resources_rc
 from .UI.interface import Interface
-from ..aux.auxDeclConv import AuxiliarDeclConv
+from ..auxiliar.auxDeclConv import AuxiliarDeclConv
 
 import math
 
